@@ -12,6 +12,8 @@ Standard divider sizes are shown below:
   24V OCV: R1 = 16kOhm, R2 = 2000Ohm, R3 = Short, R4 = Open
   R1 and R2 must be rated for at least 1/8 Watt
 
+  20V OCV: R1 = 12500, R2 = 7500, R3 = Short, R4 = Open
+
 Production files are aslo included, the zip file and BOM are formatted for JLCPCB manufacturing and assembly.
 
 If another software is used, these may need to be altered.
