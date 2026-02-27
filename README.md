@@ -14,6 +14,12 @@ Standard divider sizes are shown below:
 
   20V OCV: R1 = 12500, R2 = 7500, R3 = Short, R4 = Open
 
+  500V OCV: R1 = 430K, R2 = 8000, R4 = 2000
+            There are 3 slots for R3 (labelled R3_P1, R3_P2, R3_P3) which are in parallel
+            Two of these should be a 7W 50K resistor in parallel with a 5W 62K Resistor
+            The third slot should be one 5W 62K resistor
+            
+
 Production files are aslo included, the zip file and BOM are formatted for JLCPCB manufacturing and assembly.
 
 If another software is used, these may need to be altered.
