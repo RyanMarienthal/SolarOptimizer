@@ -17,3 +17,9 @@ Standard divider sizes are shown below:
 Production files are aslo included, the zip file and BOM are formatted for JLCPCB manufacturing and assembly.
 
 If another software is used, these may need to be altered.
+
+
+ORDERING INSRUCTIONS:
+  Navigate to SolarOptimizer Git Upload\production and download SolarOptimizer3.0.zip
+
+  This file can be uploaded directly to a PCB manufacturer and ordered
